@@ -3,9 +3,7 @@ Various methods used to visualize longitudinal data
 Lauren Johns
 August 7, 2016
 
-#### Data used for these examples were obtained from *Linear Mixed Models: A Practical Guide Using Statistical Software, Second Edition* by Brady T . West , Kathleen B . Welch , and Andrzej T . Gałecki.
-
-#### Data were downloaded and some code was adapted from [Chapter 6: Random Coefficient Models for Longitudinal Data](http://www-personal.umich.edu/~bwest/chapter6.html)
+#### Data used for these examples were obtained from *Linear Mixed Models: A Practical Guide Using Statistical Software, Second Edition* by Brady T. West , Kathleen B . Welch , and Andrzej T . Gałecki. Data were downloaded and some code was adapted from [Chapter 6: Random Coefficient Models for Longitudinal Data](http://www-personal.umich.edu/~bwest/chapter6.html)
 
 ### **STEP 1:** Load and reclassify variables
 
