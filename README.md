@@ -1,9 +1,11 @@
-Various methods used to visualize longitudinal data
+Visualizing longitudinal data using spaghetti plots
 ================
 Lauren Johns
 August 7, 2016
 
-#### Data used for these examples were obtained from *Linear Mixed Models: A Practical Guide Using Statistical Software, Second Edition* by Brady T. West , Kathleen B . Welch , and Andrzej T . Gałecki. Data were downloaded and some code was adapted from [Chapter 6: Random Coefficient Models for Longitudinal Data](http://www-personal.umich.edu/~bwest/chapter6.html)
+#### Data used for these examples were obtained from *Linear Mixed Models: A Practical Guide Using Statistical Software, Second Edition* by Brady T. West , Kathleen B . Welch , and Andrzej T . Gałecki. Data were downloaded and some code was adapted from [Chapter 6: Random Coefficient Models for Longitudinal Data](http://www-personal.umich.edu/~bwest/chapter6.html)  
+
+##### For code to visualize nonlinear associations using GAMM with penalized splines, see my other Github repo entitled [Plotting GAMM Models](https://github.com/laujohns/plotting-GAMM-models)
 
 ### **STEP 1:** Load and reclassify variables
 
